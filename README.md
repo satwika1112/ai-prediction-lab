@@ -47,7 +47,7 @@ The AI successfully recognized a hand-drawn donut and ranked it as the top predi
 
 ---
 
-### 👓 Correct Prediction — Eyeglasses
+### ☕ Correct Prediction - Coffee Cup
 
 ![Coffee Cup Prediction](assets/coffeecup_prediction.png)
 
